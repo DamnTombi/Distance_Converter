@@ -7,7 +7,7 @@ public class Main {
     static void main(String[] args) {
         System.out.println("Distance converter");
         System.out.println("App for distance convert");
-        System.out.println("Version 1.1 for SSH");
+        System.out.println("Version 1.2 for SSH");
 
         double km = 12;
         double mile =5;
