@@ -4,7 +4,7 @@ public class Main {
     private static final double ConvK_MileToKm = 1.609344;
     private static final double ConK_NautToKm = 1.852;
 
-    static void main(String[] args) {
+   public static void main(String[] args) {
         System.out.println("Distance converter");
         System.out.println("App for distance convert");
         System.out.println("Version 1.2 for SSH");
